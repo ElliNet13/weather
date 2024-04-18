@@ -1,2 +1,2 @@
 # Weather
-Uses **example** data to display the weather
+Uses **example** data to display the weather.
